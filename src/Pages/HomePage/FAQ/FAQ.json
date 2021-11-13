@@ -1,0 +1,18 @@
+[
+    {
+        "que": "How do I contact the deliver?",
+        "ans": "After accepting your request, you will see the deliverers’ name, picture and user rating appear on your phone screen, along with a phone icon. Press the phone icon beside the contact number to call the deliverer."
+    },
+    {
+        "que": "How do I cancel a request?",
+        "ans": "You can cancel the request up until the start of your delivery. To do this, you have to press either “Cancel Request” or a red “X” sign when applicable."
+    },
+    {
+        "que": "How do I request for a delivery?",
+        "ans": "To request a ride, you will have to select Pathao Parcels from the vertical button at the top of the screen. Then, you will have to select your pickup and drop-off location, fill in detailed information about the receiver of the item and select any one of the predefined product category which is closest to the item you are sending. Then you can review information before you request for a delivery pickup, after which Pathao Parcels can find the nearest deliverer around you and send them your way."
+    },
+    {
+        "que": "How do I track my delivery?",
+        "ans": "There are three stages in tracking your delivery. After the deliverer accepts your requests, your phone screen will show “Request Accepted”. The delivery status will change to “In Transit” the moment the deliverer starts the request. When the deliverer has successfully delivered your item, the status will change to “Delivered”. All throughout, your phone screen will display a phone icon to call the deliverer. Press on the phone icon to call the deliverer if you wish to know detailed location of your deliverer."
+    }
+]
