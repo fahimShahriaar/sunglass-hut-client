@@ -18,4 +18,6 @@ Pick your favourite glass from Sunglass Hut.
 - Manage section will allow you to manage the products like, if you want to withdraw any product from your shop then this section will help you. And as same as the customer, you can also log out after finishing your work.
 
 
-## Live Link: https://sunglass-hut-4529c.web.app/# niche-website-client-side-fem97
+## Live Link: https://sunglass-hut-4529c.web.app/
+
+
