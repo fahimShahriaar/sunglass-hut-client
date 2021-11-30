@@ -1,5 +1,5 @@
 import React from 'react';
-import deliveryImg from '../../../img/banner1.png';
+import glass1 from '../../../img/glass-1.png';
 import FAQSingle from '../FAQSingle/FAQSingle';
 import faq from './FAQ.json'
 
@@ -9,7 +9,7 @@ const FAQ = () => {
             <h2 className="ms-2 my-5">FAQ - Frequently Answer Questions</h2>
             <div className="row">
                 <div className="col-md-6 p-4">
-                    <img src={deliveryImg} alt="" className="w-100" style={{ height: "500px" }} />
+                    <img src={glass1} alt="" className="w-100" style={{ height: "500px" }} />
                 </div>
                 <div className="col-md-6 px-4">
                     {
